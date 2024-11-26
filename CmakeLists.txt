@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.10)
+project(MyDlibProject)
+
+# C++ 표준 설정
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# OpenCV 설정
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+# dlib 서브 디렉토리 추가
+add_subdirectory(dlib)
+include_directories(${CMAKE_SOURCE_DIR}/dlib)
+
+# 실행 파일 정의 및 OpenCV 및 dlib 연결
+add_executable(MyProject test.cpp)
+target_link_libraries(MyProject dlib::dlib ${OpenCV_LIBS})
