@@ -886,8 +886,11 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/ctype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/dirent.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/errno.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/float.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/gethostuuid.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/libgen.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/libkern/arm/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/limits.h \
@@ -947,6 +950,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fd_set.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fd_setsize.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fd_zero.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_filesec_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_gid_t.h \
@@ -968,8 +972,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_null.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_off_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_pid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_posix_vdisable.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_rsize_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_rune_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_s_ifmt.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_seek_set.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_sigaltstack.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_sigset_t.h \
@@ -991,19 +997,24 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_useconds_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uuid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_va_list.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_wchar_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_wint_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/appleapiopts.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/cdefs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/dirent.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/errno.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/qos.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/resource.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/select.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/stat.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/syslimits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/wait.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/unistd.h \
@@ -1040,6 +1051,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/array2d.h \
@@ -1108,6 +1120,92 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/functional.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/type_traits.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/utility.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_function.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_function_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_trainer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_trainer_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/any/storage.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array2d.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/queue.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/string.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_extensions.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_extensions_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/posix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/line.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_core.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/threads.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_core/gui_core_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_core/gui_core_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_core/xlib.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/full_object_detection.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_transforms/assign_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/map.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/member_function_pointer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/platform.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/queue.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/sequence.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/set.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/string.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/timer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/noncopyable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_shared.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/posix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/platform.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/threads.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/timer/timer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/timer/timer_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/timer/timer_heavy.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/base_widgets.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/base_widgets_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/canvas_drawing.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/canvas_drawing_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/drawable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/drawable_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/fonts.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/style.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/style_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/widgets.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/widgets_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/array2d.h \
@@ -1134,50 +1232,9 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/array2d.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/config.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/error.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/float_details.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/type_traits.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/map_pair.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/array.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/sort.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_kernel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array2d.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/serialize_pixel_overloads.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/hash.h \
@@ -1196,7 +1253,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/hash.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/math.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/math/bessel.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
@@ -1204,34 +1260,14 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/math/details/bessel.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/math/windows.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/map_pair.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/remover.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree/binary_search_tree_kernel_2.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_1.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_2.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_3.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_line_search.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_line_search_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/sparse_vector.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/std_allocator.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/rand.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
@@ -1373,7 +1409,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/syev.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/syevr.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_assign.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_assign_fwd.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_blas_bindings.h \
@@ -1381,12 +1416,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_conj_trans.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_conv.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_conv_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_default_mul.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_eigenvalue.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_expressions.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_fft.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_fft_abstract.h \
@@ -1396,7 +1427,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_la_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_lu.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_math_functions.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_math_functions_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_op.h \
@@ -1409,9 +1439,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_utilities_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/symmetric_matrix_cache.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/symmetric_matrix_cache_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/noncopyable.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/numeric_constants.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix.h \
@@ -1438,25 +1465,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_search_strategies_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_stop_strategies.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_stop_strategies_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/platform.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/stack_trace.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/type_traits.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/unicode.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/unserialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/unserialize_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/windows_magic.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/border_enumerator.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/border_enumerator_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/drectangle.h \
@@ -1468,9 +1476,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/polygon.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/polygon_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry/vector.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/vector_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_transforms.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/array.h \
@@ -1651,20 +1657,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/svm.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/any.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/functional.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/type_traits.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/utility.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_function.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_function_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_trainer.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/any_trainer_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/any/storage.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/array.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/geometry.h \
@@ -1674,13 +1666,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/misc_api.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/noncopyable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_2.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_shared.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/misc_api/posix.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/noncopyable.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/find_max_factor_graph_viterbi.h \
@@ -1688,7 +1673,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_oca.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_solve_qp2_using_smo.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_solve_qp3_using_smo.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/platform.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/rand.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/statistics.h \
@@ -1866,6 +1850,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/object_detector.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/remove_unobtainable_rectangles.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/remove_unobtainable_rectangles_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/render_face_detections.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/render_face_detections_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_fhog_pyramid.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image_abstract.h \
@@ -1885,10 +1871,115 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/shape_predictor_trainer_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/config.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/error.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/float_details.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/map_pair.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/sort.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_kernel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array2d.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/map_pair.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/remover.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree/binary_search_tree_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_1.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_3.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_assign_fwd.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_fwd.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_op.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/vector.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/geometry/vector_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/array2d/serialize_pixel_overloads.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_fwd.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_op.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/noncopyable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/numeric_constants.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/platform.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/stack_trace.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/type_traits.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/unserialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/unserialize_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/windows_magic.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv.h \
@@ -2049,8 +2140,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/imgcodecs.hpp:
 
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/timer.h:
-
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/result_set.h:
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/nn_index.h:
@@ -2077,8 +2166,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/flann_base.hpp:
 
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/dynamic_bitset.h:
-
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/defines.h:
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/config.h:
@@ -2088,8 +2175,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/allocator.h:
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/all_indices.h:
-
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann.hpp:
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/features2d.hpp:
 
@@ -2145,6 +2230,56 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image_abstract.h:
 
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/windows_magic.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/unserialize_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/array2d/serialize_pixel_overloads.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_generic_image.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/geometry/vector_abstract.h:
+
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/dnn/dnn.inl.hpp:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_3.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_1.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/array/array_kernel_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/float_details.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer.h:
+
 /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/shape_predictor_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/setup_hashed_features_abstract.h:
@@ -2162,6 +2297,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image_boxes_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image_boxes.h:
+
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/timer.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/image_processing/render_face_detections_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector.h:
 
@@ -2204,6 +2343,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__fwd/istream.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/svm_c_linear_dcd_trainer_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/widgets.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/errno.h:
 
@@ -2315,31 +2456,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/type_safe_union/type_safe_union_kernel_abstract.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/pstl_transform_reduce.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/posix.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_shared.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_abstract.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__iterator/distance.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_2.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/misc_api.h:
-
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/traits.hpp:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/any/storage.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/any/any_function_abstract.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/any/any_function.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function_abstract.h:
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_abstract.h:
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/optim.hpp:
 
@@ -2419,6 +2536,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_sort_heap.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/unistd.h:
+
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_oca.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/set/set_kernel_c.h:
@@ -2457,8 +2576,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/fonts_abstract.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/fonts.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_utilities.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/active_learning.h:
@@ -2477,12 +2594,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/geometry/border_enumerator.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/unicode.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_stop_strategies_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_search_strategies.h:
@@ -2496,12 +2607,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Users/iyeongchan/dlib_project/dlib/dlib/sequence/sequence_kernel_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/sequence/sequence_kernel_2.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat_abstract.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/sequence.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h:
 
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/cuda.inl.hpp:
 
@@ -2535,17 +2640,9 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_la_abstract.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uid_t.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__functional/binder1st.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_eigenvalue.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/steady_clock.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/gesvd.h:
 
@@ -2561,8 +2658,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_conj_trans.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_abstract.h:
-
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/bufferpool.hpp:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/syevr.h:
@@ -2571,19 +2666,9 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/getrf.h:
 
-/Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/gesdd.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/fortran_id.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/svm/svm_c_linear_trainer.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/utility.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/cblas_constants.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_expressions.h:
 
@@ -2641,17 +2726,9 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/queue/queue_sort_1.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/image_transforms.h:
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/pbtrf.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pstl_stable_sort.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout_abstract.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/queue/queue_kernel_c.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/queue.h:
+/Users/iyeongchan/dlib_project/dlib/dlib/sort.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/duration.h:
 
@@ -2660,6 +2737,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/mach/arm/_structs.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/map/map_kernel_1.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/config.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h:
 
@@ -2671,9 +2750,17 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/binary_search_tree/binary_search_tree_kernel_1.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
+/Users/iyeongchan/dlib_project/dlib/dlib/interfaces/remover.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/threads.h:
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/composite_index.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/interfaces/map_pair.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/min_element.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__memory/voidify.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/graph_utils/sample_pair_abstract.h:
 
@@ -2691,15 +2778,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/rand/mersenne_twister.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_stable_sort.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/svm/krr_trainer.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/string.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/rand.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/simd/simd8i.h:
 
@@ -2709,21 +2788,11 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_line_search_abstract.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_3.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/interfaces/remover.h:
-
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/dnn/dnn.inl.hpp:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/geometry/rectangle_abstract.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/math/details/bessel.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_line_search.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/numeric_constants.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/math.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/general_hash/random_hashing.h:
 
@@ -2751,38 +2820,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/hash.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/svm/reduced.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_bool.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/pbtrf.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/sort.h:
-
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/composite_index.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/interfaces/map_pair.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/min_element.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__memory/voidify.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/interfaces/enumerable.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/pixel.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/float_details.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_fill_n.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/config.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/feature_ranking_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/surf.h:
@@ -2803,8 +2840,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/hashed_feature_image_abstract.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/hashed_feature_image.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/noexcept_move_assign_container.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/fine_hog_image_abstract.h:
@@ -2819,15 +2854,109 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/lsh/projection_hash.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/math.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/style.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/fonts.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/drawable.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/canvas_drawing_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/canvas_drawing.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/image_processing/full_object_detection_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/timer/timer_heavy.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/timer/timer_abstract.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/pstl_transform_reduce.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/posix.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_shared.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_abstract.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__iterator/distance.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/misc_api/misc_api_kernel_2.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/lapack/gesdd.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/image_transforms/colormaps_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/timer.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_mat_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/sequence.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/misc_api.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_core/gui_core_kernel_2.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/unicode.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/threads.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/pixel.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_kernel_2.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_extensions_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_extensions.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_stable_sort.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/svm/krr_trainer.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/string.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/image_transforms.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/queue/queue_kernel_c.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/queue.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_fill_n.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/enable_if.h:
+
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/traits.hpp:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/any/storage.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/any/any_function_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/any/any_function.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/svm/svm_c_linear_trainer.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/cblas_constants.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/utility.h:
+
 /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_generic_image.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/unserialize_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/find_end.h:
 
@@ -2846,6 +2975,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Users/iyeongchan/dlib_project/dlib/dlib/fft/fft.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/dir_nav.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder/entropy_encoder_kernel_c.h:
 
@@ -2901,19 +3032,11 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/conditioning_class/conditioning_class_kernel_1.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__utility/rel_ops.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/conditioning_class.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/fold.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/compress_stream/compress_stream_kernel_2.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/assert.h:
 
@@ -3021,6 +3144,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/stdio.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/select.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/resource.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_transforms/hough_transform_abstract.h:
@@ -3048,6 +3173,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/multiclass_tools.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uintptr_t.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uid_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_ucontext.h:
 
@@ -3079,7 +3208,13 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_rune_t.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/hashed_feature_image.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_posix_vdisable.h:
+
 /Users/iyeongchan/dlib_project/dlib/dlib/statistics/image_feature_sampling.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_s_ifmt.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_pid_t.h:
 
@@ -3122,6 +3257,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_gid_t.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/lsh/create_random_projection_hash_abstract.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stack:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_filesec_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_fd_def.h:
 
@@ -3203,8 +3342,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/pthread/qos.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/pthread.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_shuffle.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/__xlocale.h:
@@ -3243,9 +3380,15 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/statistics/lda.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/libgen.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/errno.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/array2d/serialize_pixel_overloads.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/pthread.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/dirent.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/base_widgets_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/ctype.h:
 
@@ -3272,8 +3415,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__fwd/sstream.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stdint.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stack:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/pthread/pthread_impl.h:
 
@@ -3327,10 +3468,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/locale:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/execution:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools_abstract.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/list:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/limits:
@@ -3340,6 +3477,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/underlying_type.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/iostream:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/stat.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/initializer_list:
 
@@ -3362,6 +3501,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__exception/terminate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools_abstract.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/execution:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/errno.h:
 
@@ -3421,6 +3564,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/hog_abstract.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__utility/rel_ops.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/fill.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
@@ -3460,10 +3607,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__utility/convert_to_integral.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__undef_macros:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/vectorstream/vectorstream_abstract.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
 
@@ -3535,6 +3678,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_union.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/svm/reduced.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/Availability.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/sequence_labeler.h:
@@ -3589,9 +3736,9 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/image_transforms/lbp.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/any/any_decision_function.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__functional/bind_back.h:
 
@@ -3639,7 +3786,9 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_integral.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/array/array_kernel_abstract.h:
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann.hpp:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_core/xlib.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/any/any_trainer.h:
 
@@ -3719,6 +3868,12 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_output.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uuid_t.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
@@ -3736,6 +3891,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__fwd/ostream.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__iterator/sortable.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/gethostuuid.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/wchar.h:
 
@@ -3842,6 +3999,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__ranges/from_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__thread/id.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/base_widgets.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_trust_region_abstract.h:
 
@@ -3955,15 +4114,17 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_types/_uint64_t.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/drawable_abstract.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__fwd/hash.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_nothrow_move_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_implicitly_default_constructible.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__mutex/mutex.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/array2d/array2d_kernel_abstract.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__mutex/mutex.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/accumulate.h:
 
@@ -4064,6 +4225,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__functional/is_transparent.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/one_vs_all_decision_function_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/cstring:
 
@@ -4243,6 +4406,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__fwd/tuple.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/style_abstract.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__atomic/memory_order.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__fwd/subrange.h:
@@ -4294,10 +4461,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/base.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__functional/ranges_operations.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_output.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/is_sorted.h:
 
@@ -4375,6 +4538,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_function.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/array/array_tools.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_bool.h:
+
 /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/object_detector.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pstl_fill.h:
@@ -4392,8 +4559,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Users/iyeongchan/dlib_project/dlib/dlib/lsh/hashes_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/decay.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h:
 
@@ -4418,8 +4583,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_u_int64_t.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/image_transforms/colormaps_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/cstdarg:
 
@@ -4470,6 +4633,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__exception/exception.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/image_processing/render_face_detections.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/optimization/optimization_search_strategies_abstract.h:
 
@@ -4533,6 +4698,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/image_transforms/equalize_histogram_abstract.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_core.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/rbf_network.h:
@@ -4582,6 +4751,10 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__atomic/check_memory_order.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/steady_clock.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/feature_ranking.h:
 
@@ -4638,8 +4811,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Users/iyeongchan/dlib_project/dlib/dlib/svm/pegasos_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__concepts/same_as.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_exp_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/libdispatch.h:
 
@@ -4703,6 +4874,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_fwd.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/posix.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__debug_utils/randomize_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/nl_types.h:
@@ -4737,13 +4910,13 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/unique.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/geometry/vector_abstract.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/format_args.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_search.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/merge.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/timer/timer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap_until.h:
 
@@ -4788,6 +4961,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/container_adaptor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_swap_ranges.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_core/gui_core_kernel_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h:
 
@@ -4923,8 +5098,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_find_if.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/memory_manager/memory_manager_kernel_1.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/is_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
@@ -4991,9 +5164,13 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/set.h:
+/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/flann/dynamic_bitset.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/dir_nav/dir_nav_kernel_abstract.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/graph_utils/ordered_sample_pair_abstract.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/set.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_types/_uintmax_t.h:
 
@@ -5047,8 +5224,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_string.h:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/image_processing/full_object_detection_abstract.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/copy_options.h:
@@ -5091,19 +5266,13 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/path_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/fill.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/unordered_map:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
-
 /Users/iyeongchan/dlib_project/dlib/dlib/set/set_compare_1.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/stl_checked/std_vector_c.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_set_intersection.h:
 
@@ -5197,9 +5366,15 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/remove_copy.h:
 
+/Users/iyeongchan/dlib_project/dlib/dlib/matrix/matrix_data_layout_abstract.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/pstl_stable_sort.h:
+
 /Users/iyeongchan/dlib_project/dlib/dlib/memory_manager.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/float.h:
+
+/Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets/widgets_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/lower_bound.h:
 
@@ -5260,8 +5435,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/sliding_buffer.h:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/unicode/unicode_abstract.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/count.h:
 
@@ -5343,8 +5516,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/streambuf:
 
-/Users/iyeongchan/dlib_project/dlib/dlib/byte_orderer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__compare/common_comparison_category.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/comp.h:
@@ -5389,17 +5560,11 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stdexcept:
 
-/opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp:
-
-/Users/iyeongchan/dlib_project/dlib/dlib/windows_magic.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__functional/bind_front.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/___wctype.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
 
@@ -5420,6 +5585,8 @@ CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_static_assert.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/dirent.h:
 
 /Users/iyeongchan/dlib_project/dlib/dlib/compress_stream.h:
 

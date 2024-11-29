@@ -1,4 +1,0 @@
-springWarm 132.486 60.4438
-summerCool 126.003 62.7043
-fallWarm 136.884 87.5755
-winterCool 126.499 73.5639

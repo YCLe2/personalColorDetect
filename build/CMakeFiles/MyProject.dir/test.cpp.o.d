@@ -1098,29 +1098,28 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/video.hpp \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/video/tracking.hpp \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/video/background_segm.hpp \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/object_detector.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/object_detector_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/rectangle.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/rectangle_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../platform.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../windows_magic.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../config.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../error.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image.h \
+  /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/core.hpp \
+  /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/types_c.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../platform.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../windows_magic.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../config.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../error.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/cassert \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../stack_trace.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../noncopyable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../enable_if.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../numeric_constants.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../type_traits.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../stack_trace.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../noncopyable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../numeric_constants.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../type_traits.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../serialize.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
@@ -1140,118 +1139,141 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/unordered_set \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../interfaces/map_pair.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../unicode.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../unicode/unicode.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../unicode/../uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../unicode/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../unicode/unicode_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../byte_orderer.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../byte_orderer/byte_orderer_kernel_1.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../byte_orderer/byte_orderer_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../byte_orderer/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../byte_orderer/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../float_details.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/vectorstream.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/vectorstream_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/unserialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/unserialize_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../vectorstream/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/vector.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/vector_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_exp.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../is_kind.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_fwd.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_exp_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../enable_if.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/memory_manager_kernel_1.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/memory_manager_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/memory_manager_kernel_2.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/memory_manager_kernel_3.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/binary_search_tree_kernel_2.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/binary_search_tree_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/../interfaces/map_pair.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/../interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/../interfaces/remover.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../memory_manager/../binary_search_tree/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_data_layout.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_data_layout_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_assign_fwd.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_op.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../pixel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../enable_if.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../image_processing/../type_traits.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../interfaces/map_pair.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../unicode/unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../unicode/../uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../unicode/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../unicode/unicode_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../byte_orderer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../byte_orderer/byte_orderer_kernel_1.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../byte_orderer/byte_orderer_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../byte_orderer/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../byte_orderer/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../float_details.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/vectorstream.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/vectorstream_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/unserialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/unserialize_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../vectorstream/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_mat.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_mat_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../stl_checked.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../stl_checked/std_vector_c.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../stl_checked/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../stl_checked/std_vector_c_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../stl_checked/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../stl_checked/../is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_op.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_exp.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_fwd.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_exp_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/array2d_kernel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/array2d_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/rectangle.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/rectangle_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/vector.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/vector_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_exp.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/memory_manager_kernel_1.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/memory_manager_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/memory_manager_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/memory_manager_kernel_3.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/binary_search_tree_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/binary_search_tree_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/../interfaces/map_pair.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/../interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/../interfaces/remover.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../memory_manager/../binary_search_tree/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/../is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_data_layout.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_fwd.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_data_layout_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_assign_fwd.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../matrix/matrix_op.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../image_processing/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../geometry/../image_processing/../pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/serialize_pixel_overloads.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/array2d_generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array2d/../image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/array_kernel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/array_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/../interfaces/enumerable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/../serialize.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/../sort.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/../is_kind.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/array_tools.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../array/array_tools_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/../image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../image_processing/generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/object_detector.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/object_detector_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/rectangle.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/drectangle.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/drectangle_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/vector.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/border_enumerator.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/border_enumerator_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/point_transforms.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/point_transforms_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_utilities.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_utilities_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../pixel.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../stl_checked.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../stl_checked/std_vector_c.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../stl_checked/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../stl_checked/std_vector_c_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../stl_checked/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../stl_checked/../is_kind.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../std_allocator.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_expressions.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_fwd.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_math_functions.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_math_functions_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_op.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../general_hash/random_hashing.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../general_hash/random_hashing_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../general_hash/murmur_hash3.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../general_hash/murmur_hash3_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../general_hash/../uintn.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_mat.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_mat_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/array2d_kernel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/array2d_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/../interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/../geometry/rectangle.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/serialize_pixel_overloads.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/../pixel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/array2d_generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array2d/../image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/array_kernel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/array_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/../interfaces/enumerable.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/../serialize.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/../sort.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/../is_kind.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/array_tools.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array/array_tools_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../image_processing/generic_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_subexp.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_subexp_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../geometry/rectangle.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_assign.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_assign_fwd.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_default_mul.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_conj_trans.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_la.h \
@@ -1424,6 +1446,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/symmetric_matrix_cache.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/symmetric_matrix_cache_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../array.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_conv.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_conv_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_fft.h \
@@ -1460,6 +1483,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../fft/fft_stl.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_read_from_istream.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_generic_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/../image_processing/generic_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../matrix/matrix_blas_bindings.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../optimization/optimization.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../optimization/optimization_abstract.h \
@@ -1488,6 +1512,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../optimization/optimization_line_search.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/line.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/line_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/../numeric_constants.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/polygon.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/../geometry/polygon_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/box_overlap_testing.h \
@@ -1743,6 +1768,107 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../base64/base64_kernel_1.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../base64/../algs.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../base64/base64_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/render_face_detections.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/full_object_detection.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/widgets.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/widgets_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/drawable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/drawable_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../platform.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/xlib.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/gui_core_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/gui_core_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/../threads.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/../geometry/rectangle.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/../binary_search_tree.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/../pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../gui_core/../unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../set.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../binary_search_tree.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../pixel.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/fonts.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../matrix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/canvas_drawing.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/canvas_drawing_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../array2d.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../image_transforms/assign_image.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../geometry.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/timer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../threads.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../platform.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/posix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/misc_api_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/misc_api_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/../uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/misc_api_shared.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../misc_api/../noncopyable.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/timer_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/../binary_search_tree.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../timer/timer_heavy.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/base_widgets.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/base_widgets_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../member_function_pointer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../map.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../array.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/style.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/style_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../unicode.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/storage.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/typeindex \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/../assert.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_trainer.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_decision_function.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_decision_function_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_function.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/../functional.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/../type_traits.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/../utility.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_function_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/../algs.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../any/any_trainer_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../sequence.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/posix.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/dir_nav_kernel_2.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/dir_nav_kernel_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../uintn.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../algs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/dirent.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/dirent.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/libgen.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/unistd.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_posix_vdisable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/select.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_uuid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/gethostuuid.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/stat.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_s_ifmt.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_filesec_t.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../stl_checked.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../enable_if.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../queue.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/dir_nav_extensions.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/dir_nav_extensions_abstract.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../dir_nav.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../dir_nav/../string.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../queue.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../string.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../misc_api.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../image_processing/full_object_detection.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../gui_widgets/../geometry/line.h \
+  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/render_face_detections_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image_abstract.h \
@@ -1755,7 +1881,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image_pyramid.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/scan_image_pyramid_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../geometry.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/full_object_detection.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/generic_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/detection_template_tools.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/detection_template_tools_abstract.h \
@@ -1866,21 +1991,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../type_safe_union/../type_traits.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../type_safe_union/../overloaded.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/storage.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/typeindex \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/../assert.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_trainer.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_decision_function.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_decision_function_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_function.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/../functional.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/../type_traits.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/../utility.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_function_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../any/any_trainer_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../unordered_pair.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/null_df.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/multiclass_tools.h \
@@ -1927,14 +2037,6 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/structural_svm_problem_threaded_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../threads.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../platform.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/posix.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/misc_api_kernel_2.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/misc_api_kernel_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/../uintn.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/misc_api_shared.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../svm/../misc_api/../noncopyable.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/hashes.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/hashes_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../lsh/../hash.h \
@@ -1991,15 +2093,4 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/correlation_tracker_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_transforms/assign_image.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_transforms/interpolation.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image.h \
-  /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/core.hpp \
-  /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/types_c.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../algs.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../pixel.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix_mat.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../image_processing/generic_image.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv_abstract.h \
-  /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix.h
+  /Users/iyeongchan/dlib_project/dlib/dlib/gui_widgets.h
