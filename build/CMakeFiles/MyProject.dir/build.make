@@ -69,28 +69,28 @@ include CMakeFiles/MyProject.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/MyProject.dir/flags.make
 
-CMakeFiles/MyProject.dir/test.cpp.o: CMakeFiles/MyProject.dir/flags.make
-CMakeFiles/MyProject.dir/test.cpp.o: /Users/iyeongchan/dlib_project/test.cpp
-CMakeFiles/MyProject.dir/test.cpp.o: CMakeFiles/MyProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/iyeongchan/dlib_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyProject.dir/test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyProject.dir/test.cpp.o -MF CMakeFiles/MyProject.dir/test.cpp.o.d -o CMakeFiles/MyProject.dir/test.cpp.o -c /Users/iyeongchan/dlib_project/test.cpp
+CMakeFiles/MyProject.dir/train.cpp.o: CMakeFiles/MyProject.dir/flags.make
+CMakeFiles/MyProject.dir/train.cpp.o: /Users/iyeongchan/dlib_project/train.cpp
+CMakeFiles/MyProject.dir/train.cpp.o: CMakeFiles/MyProject.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/iyeongchan/dlib_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyProject.dir/train.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyProject.dir/train.cpp.o -MF CMakeFiles/MyProject.dir/train.cpp.o.d -o CMakeFiles/MyProject.dir/train.cpp.o -c /Users/iyeongchan/dlib_project/train.cpp
 
-CMakeFiles/MyProject.dir/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyProject.dir/test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iyeongchan/dlib_project/test.cpp > CMakeFiles/MyProject.dir/test.cpp.i
+CMakeFiles/MyProject.dir/train.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyProject.dir/train.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iyeongchan/dlib_project/train.cpp > CMakeFiles/MyProject.dir/train.cpp.i
 
-CMakeFiles/MyProject.dir/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyProject.dir/test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iyeongchan/dlib_project/test.cpp -o CMakeFiles/MyProject.dir/test.cpp.s
+CMakeFiles/MyProject.dir/train.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyProject.dir/train.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iyeongchan/dlib_project/train.cpp -o CMakeFiles/MyProject.dir/train.cpp.s
 
 # Object files for target MyProject
 MyProject_OBJECTS = \
-"CMakeFiles/MyProject.dir/test.cpp.o"
+"CMakeFiles/MyProject.dir/train.cpp.o"
 
 # External object files for target MyProject
 MyProject_EXTERNAL_OBJECTS =
 
-MyProject: CMakeFiles/MyProject.dir/test.cpp.o
+MyProject: CMakeFiles/MyProject.dir/train.cpp.o
 MyProject: CMakeFiles/MyProject.dir/build.make
 MyProject: dlib/dlib/libdlib.a
 MyProject: /opt/homebrew/lib/libopencv_gapi.4.10.0.dylib

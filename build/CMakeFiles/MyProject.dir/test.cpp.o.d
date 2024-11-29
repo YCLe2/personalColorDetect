@@ -1098,6 +1098,7 @@ CMakeFiles/MyProject.dir/test.cpp.o: \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/video.hpp \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/video/tracking.hpp \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/video/background_segm.hpp \
+  /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/xphoto/white_balance.hpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/cv_image.h \
   /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/core/core.hpp \

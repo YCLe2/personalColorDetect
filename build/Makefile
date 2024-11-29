@@ -142,29 +142,29 @@ dlib/fast:
 	$(MAKE) $(MAKESILENT) -f dlib/dlib/CMakeFiles/dlib.dir/build.make dlib/dlib/CMakeFiles/dlib.dir/build
 .PHONY : dlib/fast
 
-test.o: test.cpp.o
-.PHONY : test.o
+train.o: train.cpp.o
+.PHONY : train.o
 
 # target to build an object file
-test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/test.cpp.o
-.PHONY : test.cpp.o
+train.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/train.cpp.o
+.PHONY : train.cpp.o
 
-test.i: test.cpp.i
-.PHONY : test.i
+train.i: train.cpp.i
+.PHONY : train.i
 
 # target to preprocess a source file
-test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/test.cpp.i
-.PHONY : test.cpp.i
+train.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/train.cpp.i
+.PHONY : train.cpp.i
 
-test.s: test.cpp.s
-.PHONY : test.s
+train.s: train.cpp.s
+.PHONY : train.s
 
 # target to generate assembly for a file
-test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/test.cpp.s
-.PHONY : test.cpp.s
+train.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/train.cpp.s
+.PHONY : train.cpp.s
 
 # Help Target
 help:
@@ -176,9 +176,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... MyProject"
 	@echo "... dlib"
-	@echo "... test.o"
-	@echo "... test.i"
-	@echo "... test.s"
+	@echo "... train.o"
+	@echo "... train.i"
+	@echo "... train.s"
 .PHONY : help
 
 

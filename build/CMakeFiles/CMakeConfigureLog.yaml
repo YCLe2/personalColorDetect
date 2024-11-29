@@ -2900,3 +2900,183 @@ events:
         
       exitCode: 0
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/dlib/cmake_utils/find_libpng.cmake:25 (try_compile)"
+      - "dlib/dlib/CMakeLists.txt:449 (include)"
+    directories:
+      source: "/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng"
+      binary: "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build"
+    buildResult:
+      variable: "test_for_libpng_worked"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -S/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng -B/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build --check-build-system CMakeFiles/Makefile.cmake 0
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build//CMakeFiles/progress.marks
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/Makefile2 all
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libpng_test.dir/build.make CMakeFiles/libpng_test.dir/depend
+        cd /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build && /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_depends "Unix Makefiles" /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir/DependInfo.cmake
+        Dependencies file "CMakeFiles/libpng_test.dir/libpng_test.cpp.o.d" is newer than depends file "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir/compiler_depend.internal".
+        Consolidate compiler generated dependencies of target libpng_test
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libpng_test.dir/build.make CMakeFiles/libpng_test.dir/build
+        make[3]: Nothing to be done for `CMakeFiles/libpng_test.dir/build'.
+        [100%] Built target libpng_test
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles 0
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/dlib/cmake_utils/find_libjpeg.cmake:25 (try_compile)"
+      - "dlib/dlib/CMakeLists.txt:511 (include)"
+    directories:
+      source: "/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg"
+      binary: "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build"
+    buildResult:
+      variable: "test_for_libjpeg_worked"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -S/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg -B/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build --check-build-system CMakeFiles/Makefile.cmake 0
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build//CMakeFiles/progress.marks
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/Makefile2 all
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libjpeg_test.dir/build.make CMakeFiles/libjpeg_test.dir/depend
+        cd /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build && /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_depends "Unix Makefiles" /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir/DependInfo.cmake
+        Dependencies file "CMakeFiles/libjpeg_test.dir/libjpeg_test.cpp.o.d" is newer than depends file "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir/compiler_depend.internal".
+        Consolidate compiler generated dependencies of target libjpeg_test
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libjpeg_test.dir/build.make CMakeFiles/libjpeg_test.dir/build
+        make[3]: Nothing to be done for `CMakeFiles/libjpeg_test.dir/build'.
+        [100%] Built target libjpeg_test
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles 0
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/dlib/cmake_utils/find_libpng.cmake:25 (try_compile)"
+      - "dlib/dlib/CMakeLists.txt:449 (include)"
+    directories:
+      source: "/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng"
+      binary: "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build"
+    buildResult:
+      variable: "test_for_libpng_worked"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -S/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng -B/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build --check-build-system CMakeFiles/Makefile.cmake 0
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build//CMakeFiles/progress.marks
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/Makefile2 all
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libpng_test.dir/build.make CMakeFiles/libpng_test.dir/depend
+        cd /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build && /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_depends "Unix Makefiles" /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir/DependInfo.cmake
+        Dependencies file "CMakeFiles/libpng_test.dir/libpng_test.cpp.o.d" is newer than depends file "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir/compiler_depend.internal".
+        Consolidate compiler generated dependencies of target libpng_test
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libpng_test.dir/build.make CMakeFiles/libpng_test.dir/build
+        make[3]: Nothing to be done for `CMakeFiles/libpng_test.dir/build'.
+        [100%] Built target libpng_test
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles 0
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/dlib/cmake_utils/find_libjpeg.cmake:25 (try_compile)"
+      - "dlib/dlib/CMakeLists.txt:511 (include)"
+    directories:
+      source: "/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg"
+      binary: "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build"
+    buildResult:
+      variable: "test_for_libjpeg_worked"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -S/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg -B/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build --check-build-system CMakeFiles/Makefile.cmake 0
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build//CMakeFiles/progress.marks
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/Makefile2 all
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libjpeg_test.dir/build.make CMakeFiles/libjpeg_test.dir/depend
+        cd /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build && /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_depends "Unix Makefiles" /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir/DependInfo.cmake
+        Dependencies file "CMakeFiles/libjpeg_test.dir/libjpeg_test.cpp.o.d" is newer than depends file "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir/compiler_depend.internal".
+        Consolidate compiler generated dependencies of target libjpeg_test
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libjpeg_test.dir/build.make CMakeFiles/libjpeg_test.dir/build
+        make[3]: Nothing to be done for `CMakeFiles/libjpeg_test.dir/build'.
+        [100%] Built target libjpeg_test
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles 0
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/dlib/cmake_utils/find_libpng.cmake:25 (try_compile)"
+      - "dlib/dlib/CMakeLists.txt:449 (include)"
+    directories:
+      source: "/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng"
+      binary: "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build"
+    buildResult:
+      variable: "test_for_libpng_worked"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -S/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng -B/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build --check-build-system CMakeFiles/Makefile.cmake 0
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build//CMakeFiles/progress.marks
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/Makefile2 all
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libpng_test.dir/build.make CMakeFiles/libpng_test.dir/depend
+        cd /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build && /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_depends "Unix Makefiles" /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libpng /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir/DependInfo.cmake
+        Dependencies file "CMakeFiles/libpng_test.dir/libpng_test.cpp.o.d" is newer than depends file "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir/compiler_depend.internal".
+        Consolidate compiler generated dependencies of target libpng_test
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libpng_test.dir/build.make CMakeFiles/libpng_test.dir/build
+        make[3]: Nothing to be done for `CMakeFiles/libpng_test.dir/build'.
+        [100%] Built target libpng_test
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libpng_build/CMakeFiles 0
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/dlib/cmake_utils/find_libjpeg.cmake:25 (try_compile)"
+      - "dlib/dlib/CMakeLists.txt:511 (include)"
+    directories:
+      source: "/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg"
+      binary: "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build"
+    buildResult:
+      variable: "test_for_libjpeg_worked"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -S/Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg -B/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build --check-build-system CMakeFiles/Makefile.cmake 0
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build//CMakeFiles/progress.marks
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/Makefile2 all
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libjpeg_test.dir/build.make CMakeFiles/libjpeg_test.dir/depend
+        cd /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build && /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_depends "Unix Makefiles" /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg /Users/iyeongchan/dlib_project/dlib/dlib/cmake_utils/test_for_libjpeg /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir/DependInfo.cmake
+        Dependencies file "CMakeFiles/libjpeg_test.dir/libjpeg_test.cpp.o.d" is newer than depends file "/Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir/compiler_depend.internal".
+        Consolidate compiler generated dependencies of target libjpeg_test
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/libjpeg_test.dir/build.make CMakeFiles/libjpeg_test.dir/build
+        make[3]: Nothing to be done for `CMakeFiles/libjpeg_test.dir/build'.
+        [100%] Built target libjpeg_test
+        /opt/homebrew/Cellar/cmake/3.30.5/bin/cmake -E cmake_progress_start /Users/iyeongchan/dlib_project/build/dlib/dlib/test_for_libjpeg_build/CMakeFiles 0
+        
+      exitCode: 0
+...

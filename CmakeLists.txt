@@ -14,5 +14,5 @@ add_subdirectory(dlib)
 include_directories(${CMAKE_SOURCE_DIR}/dlib)
 
 # 실행 파일 정의 및 OpenCV 및 dlib 연결
-add_executable(MyProject test.cpp)
+add_executable(MyProject train.cpp)
 target_link_libraries(MyProject dlib::dlib ${OpenCV_LIBS})

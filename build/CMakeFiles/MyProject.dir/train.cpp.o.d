@@ -1235,6 +1235,7 @@ CMakeFiles/MyProject.dir/train.cpp.o: \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/to_open_cv_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/opencv/../matrix/matrix.h \
+  /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4/opencv2/xphoto/white_balance.hpp \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/frontal_face_detector_abstract.h \
   /Users/iyeongchan/dlib_project/dlib/dlib/image_processing/../image_processing/object_detector.h \

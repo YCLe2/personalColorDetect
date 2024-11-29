@@ -1,4 +1,5 @@
 #include <opencv2/opencv.hpp>
+#include <opencv2/xphoto/white_balance.hpp>
 #include <dlib/opencv.h>
 #include <dlib/image_processing/frontal_face_detector.h>
 #include <dlib/image_processing/render_face_detections.h>
@@ -89,9 +90,11 @@ void analyzePersonalColorFromWebcam() {
             continue;
         }
 
+        Ptr<cv::xphoto::GrayworldWB> wb = cv::xphoto::createGrayworldWB();
+        wb->balanceWhite(frame, frame);
+
         full_object_detection shape = pose_model(cimg, faces[0]);
 
-        // Extract regions
         std::vector<Point> skin_points;
         for (int i = 0; i <= 16; ++i) {
             skin_points.push_back(Point(shape.part(i).x(), shape.part(i).y()));

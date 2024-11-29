@@ -1,5 +1,6 @@
 #include <opencv2/opencv.hpp>
 #include <dlib/opencv.h>
+#include <opencv2/xphoto/white_balance.hpp>
 #include <dlib/image_processing/frontal_face_detector.h>
 #include <dlib/image_processing/render_face_detections.h>
 #include <dlib/image_processing.h>
@@ -75,6 +76,12 @@ void analyzePersonalColor(const string& imgpath) {
             return;
         }
 
+        Ptr<cv::xphoto::GrayworldWB> wb = cv::xphoto::createGrayworldWB();
+        wb->balanceWhite(frame, frame);
+
+        imshow("Original", frame);
+        waitKey(0);
+
         cv_image<bgr_pixel> cimg(frame);
         std::vector<dlib::rectangle> faces = detector(cimg);
 
@@ -82,8 +89,10 @@ void analyzePersonalColor(const string& imgpath) {
             cerr << "No faces detected in image: " << imgpath << endl;
             return;
         }
+        
 
         full_object_detection shape = pose_model(cimg, faces[0]);
+
 
         // Extract regions
         std::vector<Point> skin_points;
@@ -194,8 +203,8 @@ void analyzePersonalColor(const string& imgpath) {
 }
 
 int main() {
-    std::vector<string> seasons = {"nsummer", "nwinter"};
-    string base_path = "../res/test/";
+    std::vector<string> seasons = {"CV_class"};
+    string base_path = "../res/";
 
     for(const auto& season : seasons) {
         string season_path = base_path + season;
